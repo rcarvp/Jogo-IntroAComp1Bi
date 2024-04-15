@@ -1,6 +1,13 @@
 # Jogo - Introdução à Computação 1 Bimestre - Slime Blaster
 
 Criado em Construct3.
+
+Pode ser jogado online em:
+
+https://slimeblaster-facef2024.netlify.app/
+
+
+
 Ao iniciar o programa, uma tela de intrução é exibida:
 ![Screenshot_20240414_230857](https://github.com/rcarvp/Jogo-IntroAComp1Bi/assets/164427677/580346b1-29f0-4e58-a883-4d0fee19ba6f)
 
