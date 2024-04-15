@@ -28,6 +28,10 @@ O jogo foi feito através da ferramenta Construct3:
 
 https://construct.net/
 
+Foi utilizado o addon "Better Outline" de autoria do usuário skymen:
+
+https://www.construct.net/en/make-games/addons/449/better-outline
+
 Foram usados recursos gratuitos de dois usuários da plataforma itch.io.
 Os sprites dos inimigos são de autoria do usuário War:
 
